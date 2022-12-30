@@ -2,7 +2,8 @@
 //  TransferableDemoApp.swift
 //  TransferableDemo
 //
-//  Created by Tatiana Kornilova on 20.11.2022.
+//  Created by Gabriel Theodoropoulos.
+//  https://serialcoder.dev
 //
 
 import SwiftUI

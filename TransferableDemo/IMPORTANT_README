@@ -1,0 +1,8 @@
+Before running this sample app, you should optionally:
+
+1. Open the Info.plist file in the Project Navigator.
+2. Expand the Exported Type Identifiers item.
+3. Expand Item 0.
+4. Find the Identifier item. Replace its current value (REPLACE_THIS_WITH_YOUR_BUNDLE_ID.color) as suggested; i.e. replace the entire first part with your Bundle ID to have something like: com.gabrieltheodoropoulos.TransferableDemo.color
+
+Find and replace the same in the ColorItem.swift file.
